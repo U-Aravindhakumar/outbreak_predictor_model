@@ -9,10 +9,10 @@ The **Outbreak Predictor Model** is a machine learning project that uses environ
 - Model is trained using Logistic Regression and takes into account key features like **temperature**, **population density**, and **vaccination rate**.
   
 ## Project Structure
-├── data.
-│   └── disease_outbreak_data.csv  # Dataset containing training data.
-├── outbreak_predictor_model.py    # Python file for prediction using user input.
-└── README.md                      # Project description and instructions.
+- ├── data.
+- │   └── disease_outbreak_data.csv  # Dataset containing training data.
+- ├── outbreak_predictor_model.py    # Python file for prediction using user input.
+- └── README.md                      # Project description and instructions.
 
 ## Files
 1. `outbreak_predictor_model.py`: The core Python script where users input the data (temperature, population density, and vaccination rate) and receive a prediction on whether a disease outbreak is likely.
