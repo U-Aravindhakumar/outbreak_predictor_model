@@ -36,3 +36,16 @@ You can install the necessary dependencies by running:
 ```bash
 pip install scikit-learn numpy joblib
 
+## How to Use
+
+1. Clone this repository.
+2. Download the dataset from the provided link.
+
+## Author
+U.Aravindhakumar
+
+## Contect
+1. Gmail : msdaravind92@gmail.com
+2. Phone : 91+ 9360379653
+
+
