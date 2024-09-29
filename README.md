@@ -34,7 +34,8 @@ Ensure that you have Python installed on your machine. You also need the followi
 
 You can install the necessary dependencies by running:
 ```bash
-pip install scikit-learn numpy joblib```
+pip install scikit-learn numpy joblib
+```bash
 
 ## How to Use
 
